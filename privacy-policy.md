@@ -22,7 +22,7 @@ Some of the services may use location information transmitted from users' mobile
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
-### Data Collection and Deletion Policy for Jigma by Samprand
+### Data Collection and Deletion Policy
 
 At Jigma, developed by Samprand as listed on the Android Store, we prioritize your privacy and take your data rights seriously. If at any point you wish to have your data removed from our system, here's how you can make a request:
 
