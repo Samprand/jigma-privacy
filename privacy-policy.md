@@ -22,6 +22,29 @@ Some of the services may use location information transmitted from users' mobile
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
+### Data Collection and Deletion Policy for Jigma by Samprand
+
+At Jigma, developed by Samprand as listed on the Android Store, we prioritize your privacy and take your data rights seriously. If at any point you wish to have your data removed from our system, here's how you can make a request:
+
+Steps to Request Data Deletion:
+
+Send an email to support@jigma.io with the subject line "Data Deletion Request".
+In your email, provide relevant user details for verification, such as your registered email address or username.
+Our team will process your request and notify you once your data has been deleted, typically within 72 hours.
+Types of Data and Retention Period:
+
+Deleted Upon Request:
+
+User profile details (e.g., name, email address, phone number).
+User preferences and settings.
+Interaction logs within the app.
+
+Kept For 24 months:
+
+Purchase and transaction histories, retained for financial and auditing purposes.
+Anonymized usage data, used for improving app functionality and performance.
+After the specified retention period, the kept data will be automatically deleted from our systems. If you have any questions or concerns regarding our data collection and deletion policy, please reach out to us at support@jigma.io.
+
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
 * To facilitate our Service;
